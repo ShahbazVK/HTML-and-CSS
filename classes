@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Website name</title>
+    <link rel="stylesheet" href="8video.css">
+  </head>
+  <body>
+    <h1>black color</h1>
+    <h2 class="index-h2" id="same-name">red color</h2>
+    <p>orange color</p>
+    <div class="index-div">
+      <p>i am parrot</p>
+    </div>
+  </body>
+</html>
+
+
+.index-h2 {
+  color: red;
+  background-color: lightgreen;
+}
+.index-div {
+  color:pink;
+
+}
+#same-name {
+  color:yellow;
+}

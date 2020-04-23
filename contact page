@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>PORTFOLIO</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Welcome To My Portfolio</h1>
+    <p>my email:shahbazalivk@gmail.com</p>
+    <p>mobile:0324-3458284</p>
+    <a href="11video.html">Front page</a>
+  </body>
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Shahbaz Ali</title>
+    <link rel="stylesheet" href="15images.css">
+  </head>
+  <body>
+    <div class="wrapper">
+      <h1>Virat Kohli</h1>
+      <!--img class="imageVK" src="images/viratpic.jpg" alt="Run Machine">-->
+      <div class="imageVK">
+
+      </div>
+    </div>
+
+  </body>
+</html>
+
+
+
+* {
+  padding: 0;
+  margin: 0;
+}
+.wrapper {
+  margin: auto;
+  width: 1000px;
+  text-align: center;
+}
+p {
+  text-align:left;
+  font-size: 20px;
+}
+
+.imageVK {
+  width: 190px;
+  height: 200px;
+  background-image: url(images/viratpic.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center; left: ;
+}
+.imageVK:hover {
+  background-size: 200%;

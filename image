@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Shahbaz Ali</title>
+    <link rel="stylesheet" href="15images.css">
+  </head>
+  <body>
+    <div class="wrapper">
+      <h1>Virat Kohli</h1>
+      <!--img class="imageVK" src="images/viratpic.jpg" alt="Run Machine">-->
+      <div class="imageVK">
+
+      </div>
+    </div>
+
+  </body>
+</html>

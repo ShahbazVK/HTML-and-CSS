@@ -1,0 +1,277 @@
+.top {
+  display: flex;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.topone{
+  line-height: 20px;
+  flex: 1;
+  margin-left: 40px;
+}
+.toptwo ul li{
+  list-style: none;
+  text-decoration: none;
+  display: inline-block;
+  flex: 1;
+  width: 95px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+.topone{
+  flex: 1;
+}
+.topthree{
+  flex: 1;
+  margin-left:50px;
+}
+.ph{
+  display: inline-block;
+}
+body{
+  margin: 0;
+  text-align: center;
+  box-sizing: border-box;
+}
+.first{
+  position: relative;
+}
+.firstone{
+  text-align: center;
+  position: absolute;
+  top: 250px;
+  left: 450px;
+  color: white;
+}
+.button1{
+  height: 40px;
+  border-radius: 50px;
+  width: 150px;
+  background: #126b73;
+}
+.button1:nth-child(even){
+  background-color: #ff5100;
+}
+.firsttwotwo{
+  background-color: #adaba3;
+  position: relative;
+  top: -50px;
+  height: 390px;
+  box-shadow: 5px 15px 25px 1px; #888888;
+}
+.firsttwoone{
+  background-color: #dedddc;
+  height: 310px;
+  height: 340px;
+  box-shadow: 5px 15px 25px 1px; #888888;
+}
+.firsttwothree{
+  background-color: #dedddc;
+  height: 340px;
+  box-shadow: 5px 15px 25px 1px; #888888;
+}
+.firsttwo{
+  display: flex;
+  top: 700px;
+  position: absolute;
+  position: relativ;
+  margin-left: 120px;
+  margin-right: 120px;
+  height: 360px;
+  to: 400px;
+}
+.img3{
+  margin-top: 30px;
+}
+.firsttwo p {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.img4 {
+ position: relative;
+ background-color:#dedddc;
+ width: 80%;
+ padding-top: 50px;
+ padding-bottom: 50px;
+}
+.second {
+  position: relative;
+  top:350px;              /* dont remove it */
+  background:  #dedddc;
+}
+.second p{
+  top: 140px;
+  position:absolute;
+  margin-left: 200px;
+  text-align: left;
+  margin-right: 700px;
+  font-size: 18px;
+  color:  white;
+}
+.second h2{
+  top: 90px;
+  position:absolute;
+  margin-left: 200px;
+  text-align: left;
+  margin-right: 700px;
+  font-size: 20px;
+  color:  white;
+}
+.third {
+  position: relative;
+  top: 350px;
+}
+.img5{
+  border-radius: 100px;
+}
+.flexone{
+  display: flex;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+.thirdone{
+  flex: 1;
+}
+.thirdtwo{
+  flex: 1;
+}
+.thirdthree{
+  flex: 1;
+}
+.thirdfour{
+  flex: 1;
+}
+.third>h2{
+  text-decoration: underline #ff5100;
+}
+.fourth {
+  position: relative;
+  top:350px;
+  background-color: #c7c3c3;
+
+}
+.flextwo {
+  display: flex;
+}
+.fourthone h3{
+  background-color: white;
+  margin-right: 10px;
+  margin-left: 15px;
+  padding: 10px;
+}
+.fourthtwo h3{
+  background-color: white;
+  margin-right: 10px;
+  padding: 10px;
+  margin-left: 15px;
+
+}
+.fourththree h3{
+  background-color: white;
+  margin-right: 15px;
+  padding: 10px;
+  margin-left: 15px;
+
+}
+.fifth {
+  position: relative;
+  top: 350px;
+  background-color: #dedddc;
+}
+.flexthree{
+  display: flex;
+}
+.fifthone{
+  flex: 1;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+.one{
+  margin-left: 100px;
+}
+.last {
+  margin-right: 100px;
+}
+.sixth{
+  position: relative;
+  top: 350px;
+  display: flex;
+  background-color: #034040;
+  color: white;
+}
+.sixthone{
+  flex: 1;
+  margin-right: 500px;
+  margin-top: -19px;
+}
+.sixthtwo{
+  flex: 1;
+}
+.seventh{
+  position: relative;
+  top: 350px;
+  background-color:#1f6966;
+  display: flex;
+  color: white;
+  text-align:left;
+}
+.ph1{
+  display: inline;
+}
+.seventh ul li{
+  text-decoration: none;
+  list-style: none;
+}
+.seventhone{
+  margin-left: 100px;
+  flex:1;
+  line-height: 30px;
+}
+.seventhtwo{
+  flex:1;
+  line-height: 30px;
+}
+.sevenththree{
+  flex:1;
+  line-height: 30px;
+}
+.seventhfour{
+  flex:1;
+}
+.seventhtwo{
+  margin-top: 50px;
+}
+.seventhfour{
+  margin-right: 100px;
+  margin-top: 65px;
+}
+.eighth{
+  position: relative;
+  top: 329px;
+  background-color: #034040;
+  height: 37px;
+  line-height: 1px;
+}
+a:hover {
+  color:  #034040;
+}
+body {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+font-size: 14px;
+word-spacing: 2px;
+color: #000000;
+font-weight: normal;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+box-sizing: border-box;
+}
+
+
+
+a:hover {
+    background: aquamarine;
+    opacity: 0.7;
+}
